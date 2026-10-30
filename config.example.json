@@ -1,0 +1,8 @@
+   {
+     "telegramChats": {
+       "main": "-100XXXXXXXXXX"
+     },
+     "whatsappGroups": {
+       "120363XXXXXXXXXXXX@g.us": { "default": "main" }
+     }
+   }
